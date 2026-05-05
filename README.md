@@ -51,7 +51,7 @@ The objective of this project is to help financial institutions:
 
 ## 📊 Results
 - Best Model: Naive Bayes  
-- Accuracy: ~82–83%  
+- Accuracy: ~80–86%  
 - Evaluation Metrics: Precision, Recall, F1-score, Confusion Matrix  
 
 ---
