@@ -25,16 +25,17 @@ This project predicts whether a loan application will be approved using machine 
 
 ## 📊 Results
 
-* Accuracy: ~82–83%
-* Best Model: Naive Bayes
+- Accuracy: ~82–83%
+- Best Model: Naive Bayes
+- Evaluation Metrics: Precision, Recall, F1-score, Confusion Matrix
 
 ---
 
 ## 💡 Key Insights
 
-* Credit Score is most important
-* Lower DTI → higher approval
-* Income alone is not enough
+- Credit Score is the strongest predictor of loan approval
+- Higher Debt-to-Income (DTI) ratio reduces approval chances
+- Income alone is not sufficient without strong credit history
 
 ---
 
